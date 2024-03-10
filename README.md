@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! </h1>
+
+<h2>👨‍💻 Gateway Assignment:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
 
 <!--
-**rossveasjr/rossveasjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
